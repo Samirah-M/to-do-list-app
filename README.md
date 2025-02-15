@@ -33,9 +33,7 @@ This project was created to enhance productivity by helping users organize their
 
 ## Screenshot
 
-<img width="1899" alt="Screenshot 2024-09-15 at 15 29 17" src="<img width="1536" alt="Screenshot 2025-02-15 at 4 01 19 pm" src="https://github.com/user-attachments/assets/ba942188-a050-4546-a7e6-868b86bf1f23" />
-">
-
+<img width="1536" alt="Screenshot 2025-02-15 at 4 01 19 pm" src="https://github.com/user-attachments/assets/317aba78-a7ef-418a-b599-5154abeae289" />
 
 ## Live link:
 ```
