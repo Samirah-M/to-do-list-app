@@ -1,7 +1,5 @@
 <h1 align="center">To-Do List Application ✅</h1>
 
-## Description
-
 > The To-Do List Application is a simple yet efficient task management tool built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed, providing an interactive and user-friendly experience. The application utilises the Document Object Model (DOM) to dynamically update the task list in real time.
 
 ## Technologies Used
